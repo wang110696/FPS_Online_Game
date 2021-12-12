@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be4fa7f7286d194a8d2b547e60acd05, type: 3}
+  m_Name: New Footstep Audio Data
+  m_EditorClassIdentifier: 
+  FootstepAudios:
+  - Tag: normal
+    AudioClips:
+    - {fileID: 8300000, guid: 6597a368cd74a924eaedb0171d5b28d3, type: 3}
+    - {fileID: 8300000, guid: 0c58744c3b6fdd844b8348066c3f703e, type: 3}
+    Delay: 1.27
